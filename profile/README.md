@@ -12,9 +12,9 @@ Nomadicode is a web development agency based out of Utah. We focus on building c
 ### Projects
 
 - Travel With Me
-  -  [https://staging.travelwithme.app](https://staging.travelwithme.app)
+  - [https://staging.travelwithme.app](https://staging.travelwithme.app)
   - __Expected Release:__ _before December 2023_
-  -  Travel With Me is a website that serves as a travel journal for its members. Users can upload their travels, organize their photos and journals, and plan future trips with ease.
+  - Travel With Me is a website that serves as a travel journal for its members. Users can upload their travels, organize their photos and journals, and plan future trips with ease.
  
 - Watfurd
   - No Link yet
