@@ -16,9 +16,9 @@ Nomadicode is a web development agency based out of Utah. We focus on building c
   - __Expected Release:__ _before December 2023_
   -  Travel With Me is a website that serves as a travel journal for its members. Users can upload their travels, organize their photos and journals, and plan future trips with ease.
  
--  Watfurd
--  - No Link yet
--  - Watfurd is a new e-commerce platform aimed at enabling independent craftmakers and small businesses with tools and visibility to build their brands and sell products with ease.
+- Watfurd
+- - No Link yet
+- - Watfurd is a new e-commerce platform aimed at enabling independent craftmakers and small businesses with tools and visibility to build their brands and sell products with ease.
 
 - TechDek
 - - No Link yet
