@@ -25,5 +25,5 @@ Nomadicode is a web development agency based out of Utah. We focus on building c
   - TechDek is a developer tools platform. Developers can sign up and get access to a myriad of tools ranging from notification management and feature flagging to internationalization.
 
 
-If you would like to contact us, send an email to [mailto:contact@nomadicode.com](contact@nomadicode.com) with any suggestions, inquiries, and more.
+If you would like to contact us, send an email to [contact@nomadicode.com](mailto:contact@nomadicode.com) with any suggestions, inquiries, and more.
 
